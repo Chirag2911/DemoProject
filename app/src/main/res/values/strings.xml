@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamoTest</string>
+    <string name="error">Error</string>
+    <string name="rocket_list">Rocket List</string>
+    <string name="rocket_detail">Rocket Detail</string>
+    <string name="launch_date">Launch Date :</string>
+    <string name="company">Company :</string>
+    <string name="location">Location :</string>
+</resources>
