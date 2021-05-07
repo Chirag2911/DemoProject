@@ -16,7 +16,7 @@ Kotlin is used for the development
 *functional testcases for rocket viewmodel
 
 *Screens in assigment
-        RocketList
+        RocketList,
         RocketDetail
 
 
